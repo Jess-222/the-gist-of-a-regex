@@ -2,6 +2,8 @@
 
 ## Link to Tutorial
 
+https://gist.github.com/Jess-222/811793e11f1a110a7f020ed72b063f5b
+
 ## User Story
 
 AS A web development student
